@@ -1,4 +1,4 @@
-package com.Myself.basic;
+package com.Myself.basics;
 
 	public class FirstDemo 
 {
