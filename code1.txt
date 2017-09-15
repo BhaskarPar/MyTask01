@@ -1,0 +1,9 @@
+package com.Myself.basic;
+
+	public class FirstDemo 
+{
+		public static void main(String[] args) 
+	{
+		System.out.println("Testing on MyTask01 in Java-8");
+	}
+}
